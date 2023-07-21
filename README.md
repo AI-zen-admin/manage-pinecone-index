@@ -1,0 +1,1 @@
+# manage-pinecone-index
